@@ -1,4 +1,3 @@
-// math.test.js
 import * as practice from "./testingPractice";
 
 describe("Capitalize Function", () => {
@@ -135,3 +134,4 @@ describe("analyzeArray Function", () => {
     });
   });
 });
+
